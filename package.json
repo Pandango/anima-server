@@ -1,0 +1,12 @@
+{
+  "name": "unity-gameonline",
+  "version": "0.1.0",
+  "description": "training about server with node and socket.io",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.7.2"
+  },
+  "main" : "main.js",
+  "author": "MDT56",
+  "license": "MDT56"
+}
